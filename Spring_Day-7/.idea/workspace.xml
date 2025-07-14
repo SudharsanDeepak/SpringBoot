@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b96087-4ccf-4968-b374-e409f2a30b15" name="Changes" comment="" />
+    <list default="true" id="12b96087-4ccf-4968-b374-e409f2a30b15" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Day-4-Task" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-4-Task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -33,10 +39,12 @@
     &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;Spring Boot.SpringbootfirstprojectApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.UpdateemployeeApplication.executor&quot;: &quot;Run&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Springboot&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;B:/Intern Tasks/Spring_Day-7&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -87,6 +95,8 @@
       <workItem from="1751967528418" duration="590000" />
       <workItem from="1751985211412" duration="192000" />
       <workItem from="1752160308416" duration="4585000" />
+      <workItem from="1752204591610" duration="10000" />
+      <workItem from="1752204794180" duration="16000" />
     </task>
     <servers />
   </component>
